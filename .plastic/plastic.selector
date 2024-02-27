@@ -1,0 +1,4 @@
+repository "FruitNinjaW2@Mickkers@cloud"
+  path "/"
+    br "/main"
+    co "/main"
